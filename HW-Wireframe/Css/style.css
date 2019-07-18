@@ -1,0 +1,162 @@
+body {
+    width: 960px;
+    height: 800px;
+    background-color: white;
+}
+
+#name {
+    line-height: 60px;
+    width: 960px;
+    height:80px;
+    display: block;
+    clear:both;
+    background-color:#eeee;
+    padding-top: 0px;
+    margin: 0px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    letter-spacing: 3.8px;
+    word-spacing: 5px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-indent: 20px;
+    
+
+
+}
+
+
+
+ 
+
+.nav {
+    width: 960px;
+    height:40px;
+    display: block;
+    color: black;
+    background-color: #eeee;
+
+    
+    
+
+
+}
+
+UL {
+    height: 40px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #eeee;
+
+}
+
+LI {
+    line-height: 40px;
+    display: inline-flex;
+    COLOR: BLACK;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20PX;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+
+
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    margin-right: 20px;
+    text-decoration: none;
+
+
+}
+
+li a hover {
+    background-color: none;
+}
+
+
+
+#section {
+    
+    width: 550px;
+    height:300px;
+    padding: 0px;
+    display: inline-block;
+    color: black;
+    background-color: #eeee;
+   
+
+
+}
+
+article {
+   object-position: center;
+    width: 350px;
+    height:200px;
+    align-content: center;
+    background-color: grey;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-top: 70px;
+    padding: 10px;
+
+
+}
+#cont-head {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+background-color: white;
+
+}
+
+#cont-para {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    background-color: white;
+
+}
+#aside {
+    width: 390px;
+    height:300px;
+    display: inline-block;
+    color: black;
+    background-color: #eeee;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 0px;
+   
+
+}
+
+
+#footer {
+   
+    width: 960px;
+    height:80px;
+    background-color: #eeee;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+
+
+
+
